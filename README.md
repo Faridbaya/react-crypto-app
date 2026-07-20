@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Crypto Dashboard
+# 📊 Crypto-App
 
 <img src="https://img.shields.io/badge/React-19-blue?logo=react" />
 <img src="https://img.shields.io/badge/Vite-Bundler-purple?logo=vite" />
