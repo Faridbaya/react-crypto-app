@@ -1,16 +1,51 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📊 Crypto Dashboard
 
-Currently, two official plugins are available:
+<img src="https://img.shields.io/badge/React-19-blue?logo=react" />
+<img src="https://img.shields.io/badge/Vite-Bundler-purple?logo=vite" />
+<img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
+<img src="https://img.shields.io/badge/CSS-Modules-blue" />
+<img src="https://img.shields.io/badge/Recharts-Chart-green?logo=recharts" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<br/>
 
-## React Compiler
+📌 A complete Cryptocurrency App with real-time data, interactive charts, and search functionality
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+</div>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Overview
+
+Users can:
+
+- 🔍 **Search** cryptocurrencies in real-time
+- 📊 **View interactive charts** with price history
+- 🔄 **Toggle chart data** between Prices, Market Caps, and Total Volumes
+- 📈 **Track market data** including price, 24h change, and volume
+- 💱 **Switch currencies** between USD, EUR, and JPY
+- 📄 **Navigate pages** with custom pagination
+
+---
+
+## 🧠 Key Features
+
+- ⚡ **Real-time Search** - Instant filtering with AbortController for efficient API calls
+- 📊 **Interactive Charts** - Dynamic charting with Recharts library
+- 🎯 **Chart Toggle** - Switch between Prices, Market Caps, and Total Volumes
+- 💰 **Multi-Currency Support** - USD, EUR, JPY with live price conversion
+- 📄 **Custom Pagination** - Manual pagination without third-party libraries
+- 🎨 **Visual Indicators** - Up/Down arrows for price changes
+- 🖼️ **Modal Windows** - Chart display in beautiful modal overlay
+- 🚀 **Optimized API Calls** - AbortController for cleanup and performance
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,vite,css,html" />
+
+</div>
